@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Maven
+**/target/
+
+# Node.js
+**/node_modules/
+
+# Environment files
+.env
+**/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
